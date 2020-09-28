@@ -1,0 +1,124 @@
+.header2
+{
+	position:sticky;
+	top:0px;
+	z-index:99999;
+}
+.header2 img
+{
+	margin-top:3px;
+	margin-left:2%;
+}
+/*--------------Course-------------*/
+
+
+.course
+{
+	width:90%;
+	margin-left:5%;
+	height:950px;
+	margin-top:40px;
+}
+.box1
+{
+	width:30%;
+	height:400px;
+	float:left;
+	margin-right:5%;
+	background: #f2f2f2;
+	border:1px solid #cccccc;
+}
+.box1:hover,.box2:hover,.box3:hover,.box4:hover,.box5:hover,.box6:hover,.box7:hover,.box8:hover,.box9:hover,.box10:hover,.box11:hover,.box12:hover
+{
+	box-shadow:0px 0px 5px black;
+	transition:.5s;
+	background:#e6e6e6;
+}
+/*=====================*/
+.box1:hover h6,.box2:hover h6,.box3:hover h6,.box4:hover h6,.box5:hover h6,.box6:hover h6,.box7:hover h6,.box8:hover h6,.box9:hover h6,.box10:hover h6,.box11:hover h6,.box12:hover h6
+{
+	color: #2f2f2f;
+	transition: 0.5s;
+}
+/*=====================*/
+.box2
+{
+	width:30%;
+	height:400px;
+	float:left;
+	margin-right:5%;
+	background: #f2f2f2;
+	border:1px solid #cccccc;
+}
+.box3
+{
+	width:30%;
+	height:400px;
+	float:right;
+	background: #f2f2f2;
+	border:1px solid #cccccc;
+}
+.box4
+{
+	width:30%;
+	height:400px;
+	float:left;
+	margin-right:5%;
+	margin-top:100px;
+	background: #f2f2f2;
+	border:1px solid #cccccc;
+}
+.box5
+{
+	width:30%;
+	height:400px;
+	float:left;
+	margin-top:100px;
+	background: #f2f2f2;
+	border:1px solid #cccccc;
+}
+
+.box1 h6,.box2 h6,.box3 h6,.box4 h6,.box5 h6,.box6 h6,.box7 h6,.box8 h6,.box9 h6,.box10 h6,.box11 h6,.box12 h6
+{
+
+	font-size:170%;
+	letter-spacing:0px;
+	margin-left:3%;
+	color: #2b2b2b;
+}
+.intro
+{
+	text-align:justify;
+	width:95%;
+	height:140px;
+	margin-left:2.5%;
+	color:#666666;
+	overflow:hidden;
+}
+/*--------------programing course--------------*/
+.programcourse
+{
+	width:90%;
+	margin-left:5%;
+	height:1950px;
+	margin-top:40px;
+}
+.box6,.box9,.box12
+{
+	width:30%;
+	height:400px;
+	float:right;
+	margin-top:100px;
+	background: #f2f2f2;
+	border:1px solid #cccccc;
+}
+.box7,.box8,.box10,.box11
+{
+	width:30%;
+	height:400px;
+	float:left;
+	margin-right:5%;
+	margin-top:100px;
+	background: #f2f2f2;
+	border:1px solid #cccccc;
+}

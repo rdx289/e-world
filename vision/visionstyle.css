@@ -1,0 +1,39 @@
+.header2
+{
+	position:fixed;
+	z-index:99999;
+}
+.header2 img
+{
+	margin-top:3px;
+	margin-left:2%;
+}
+.main{
+	margin-top:70px;
+	width:80%;
+	margin-left:10%;
+	height:auto;
+}
+.vision{
+	width:100%;
+	height:auto;
+	padding-bottom:10px;
+	
+}
+.mission{
+	width:100%;
+	height:auto;
+	padding-bottom:10px;
+}
+.vision h3,.mission h3{
+	font-size:140%;
+	color:#0047b3;
+}
+.vision p,.mission p{
+	text-align:justify;
+	padding:10px;
+}
+.vision p li,.mission p li{
+	text-align:justify;
+	padding:10px;
+}

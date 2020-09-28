@@ -1,0 +1,153 @@
+body
+{
+	margin:0;
+	padding:0;
+	background-image:url("backk.png");
+	background-position:center;
+	background-size:cover;
+	background-position:fixed;
+	background-repeat:no-repeat;
+	background:cover;
+	
+}
+
+.header
+{
+	height:35px;
+	width:100%;
+	background-color:black;
+	border-bottom:3px solid blue;
+	position:fixed;
+	color:#fff;
+	z-index:999;
+	font-size:25px;
+	font-weight:bold;
+}
+.header h2
+{
+	margin:0;
+	text-shadow:-3px -3px 5px blue;
+	color:red;
+	font-size:30px;
+	display:inline-block;
+	margin-left:2%;
+}
+.footer
+{
+	height:30px;
+	width:100%;
+	background-color:black;
+	border-top:3px solid blue;
+	color:#fff;
+	letter-spacing:5px;
+	font-size:20px;
+	position:fixed;
+	bottom:0px;
+}
+.footer h5
+{
+	display:inline-block;
+	margin-top:3px;
+	float:left;
+	margin-left:1%;
+	margin-bottom:0px;
+	font-size:100%;
+}
+.contener
+{
+	width:100%;
+	height:100%;
+	
+}
+.wriper
+{
+	width:100%;
+	height:600px;
+}
+.pas_change
+{
+	width:30%;
+	margin-top:50px;
+	margin-left:20%;
+	height:410px;
+	float:left;
+}
+.login
+{
+	width:90%;
+	height:40px;
+	margin-top:10px;
+	margin-left:40px;
+	border-radius:5px;
+	background-color:rgba(102,102,153,0.3);
+	color:#000;
+	font-size:15px;
+}
+.pas_change p
+{
+	margin-left:40px;
+	color:#666699;
+	font-size:110%;
+	margin-top:15px;
+	margin-bottom:0;
+}
+.btn
+{
+	width:150px;
+	height:50px;
+	font-size:150%;
+	background-color:#666699;
+	color:#fff;
+	border-radius:10px;
+	margin-left:40%;
+	margin-top:50px;
+}
+.r_sides
+{
+	width:15%;
+	height:310px;
+	float:right;
+	margin-top:40px;
+}
+.r_sides ul
+{
+	font-size:120%;
+	list-style-type:none;
+	padding:0;
+	width:100%;
+	margin-top:15px;
+	float:right;
+}
+.r_sides ul li
+{
+	margin-top:5px;
+	line-height:40px;
+	height:40px;
+}
+.r_sides ul li a
+{
+	text-decoration:none;
+	width:90%;
+	padding-left:10%;
+	display:block;
+	font-weight:bold;
+	color:#3d3d5c;
+}
+.active
+{
+	background-color:#666699;
+	color:white;
+}
+
+.r_sides ul li a:hover
+{
+	background-color:#666699;
+	color:white;
+}
+.fas
+{
+	display:inline-block;
+	float:right;
+	margin-right:10px;	
+	margin-top:12px;
+}
